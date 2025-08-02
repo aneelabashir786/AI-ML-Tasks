@@ -8,3 +8,4 @@ Natural Language Processing can be categorized into two components:
 
 2. **Natural Language Generation**: It involves generating human-like text based on processed data.
 
+
