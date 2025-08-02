@@ -4,7 +4,7 @@
 
 Natural Language Processing can be categorized into two components:
 
-1. Natural Language Understanding: It involves interpreting the meaning of the text.
+1. **Natural Language Understanding**: It involves interpreting the meaning of the text.
 
-2. Natural Language Generation: It involves generating human-like text based on processed data.
+2. **Natural Language Generation**: It involves generating human-like text based on processed data.
 
