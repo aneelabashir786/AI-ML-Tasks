@@ -16,7 +16,10 @@ Natural Language Processing can be categorized into two components:
 1. Lexical Analysis
    
     It focuses on identifying and processing words (or lexemes) in a text.
+   
     Key tasks in Lexical analysis:
-      Tokenization: Process of dividing a text into smaller chunks called tokens. For example the sentence "I love programming" would be tokenized into ["I", "love", "programming"].
-      Part-of-Speech Tagging: Assigning parts of speech such as noun, verb, adjective to each token in the sentence. This helps us to understand grammatical roles of words in the context. 
+   
+      **Tokenization:** Process of dividing a text into smaller chunks called tokens. For example the sentence "I love programming" would be tokenized into ["I", "love", "programming"].
+   
+     ** Part-of-Speech Tagging:** Assigning parts of speech such as noun, verb, adjective to each token in the sentence. This helps us to understand grammatical roles of words in the context. 
 
