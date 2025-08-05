@@ -47,14 +47,3 @@ At every step:
 -> Training can be slow due to issues like vanishing gradients
 
 -> To fix this, advanced versions like LSTM and GRU were created, which have better memory handling.
-
-
-
-
-
-
-
-
-
-
-Ask ChatGPT
