@@ -48,3 +48,42 @@ At every step:
 -> Training can be slow due to issues like vanishing gradients
 
 -> To fix this, advanced versions like LSTM and GRU were created, which have better memory handling.
+
+
+### What is Augmentation of Duplicated Rows? ###
+
+In natural language processing (NLP) or machine learning in general, augmentation refers to creating new, slightly modified versions of existing data to improve model training.
+
+So, when someone says:
+
+"Augmentation of duplicated rows"
+
+They might mean one of two things, depending on context:
+
+ **1. Replacing or Modifying Duplicate Rows to Create Variants**
+Instead of just deleting duplicate rows, you apply text augmentation techniques to turn them into new, slightly different samples — to retain data quantity but avoid exact repetition.
+
+Example:
+Original duplicated post:
+
+“I love this community. You guys are awesome!”
+
+Augmented variants:
+
+“This community is amazing. I love you all!”
+
+“You folks are incredible — I really enjoy being here.”
+
+“This is such a great place! Everyone is awesome.”
+
+This could be done using:
+
+Synonym replacement
+
+Back translation (translate to another language and back)
+
+Random word deletion/insertion
+
+Paraphrasing using NLP models
+
+
