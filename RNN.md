@@ -5,6 +5,7 @@
 An RNN (Recurrent Neural Network) is a type of neural network designed to handle sequential data — data where the order matters.
 
 2. It’s commonly used in:
+   
 
 -> Speech recognition
 
