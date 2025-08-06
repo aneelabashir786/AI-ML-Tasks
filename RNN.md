@@ -15,6 +15,7 @@ An RNN (Recurrent Neural Network) is a type of neural network designed to handle
 
 -> Time-series forecasting
 
+
 -> How does it work?
 
 
